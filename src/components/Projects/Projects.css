@@ -1,0 +1,14 @@
+.Card{
+ 
+}
+.Card2{
+	position: relative;
+	left:40%;
+
+}
+.image{
+	border: 10px ridge #f8f8ff;
+}
+#words{
+	color:#f8f8ff;
+}

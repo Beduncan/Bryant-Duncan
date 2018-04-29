@@ -1,0 +1,26 @@
+.jumbotron {
+	background-image: url("./../../images/images.jpg");
+	background-size: cover;
+	background-width:100%;
+	background-height:auto;
+	background-repeat: no-repeat;
+    padding: 0.5em 0.6em;
+    h1 {
+        font-size: 2em;
+    }
+    p {
+        font-size: 1.2em;
+        .btn {
+            padding: 0.5em;
+        }
+    }
+}
+img{
+	z-index: 5;
+
+}
+.text-Con{
+	color:#f8f8ff;
+    border: 2px solid #f8f8ff;
+    bottom:40px;
+}

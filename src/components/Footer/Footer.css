@@ -1,0 +1,11 @@
+.footer{
+	background-color: Black;
+	width:100%;
+	position: relative;
+    border-top: 25px solid dimgray;
+	}
+.name{
+	color:#f8f8ff;
+	text-align: right;
+	padding: 15px;
+}
