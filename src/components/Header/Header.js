@@ -1,5 +1,5 @@
 import React from "react";
-import "./AboutMe.css";
+import "./Header.css";
 
 
 //intro myself and tell my skills and passsion  
