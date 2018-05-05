@@ -9,16 +9,12 @@ import "./Nav.css";
 const Nav = () => (
   <nav>
     <div className="nav-wrapper">
-    <p className="brand-logo center logo">Bryantduncan98@gmail.com</p>
-      <ul id="nav-mobile" className="left hide-on-med-and-down">
+      <ul id="nav-mobile" className="hide-on-med-and-down">
 		    <li className={window.location.pathname === "/about" ? "active" : ""}>
 		      <Link className="Link" to="/about">About Me</Link>
 		    </li>
 		    <li className={window.location.pathname === "/portfoilo" ? "active" : ""}>
 		      <Link className="Link" to="/portfoilo">Portfoilo</Link>
-		    </li>
-		    <li className={window.location.pathname === "/contact" ? "active" : ""}>
-		      <Link className="Link" to="/contact">Contact</Link>
 		    </li>
       </ul>
     </div>
@@ -26,3 +22,4 @@ const Nav = () => (
 	);
 
 export default Nav;
+    // <p className="brand-logo name logo">Bryant Duncan</p>

@@ -5,10 +5,7 @@ import "./Projects.css";
 //intro myself and tell my skills and passsion  
 
 const Projects = () => (
-<div className="container">
-	<div className="row">
-		<h1><u>My Work</u></h1>
-	</div>
+<div>
 	<div className="row">
 		<div className="col-lg-4">	
 			<div className="Card">
@@ -21,7 +18,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Car Shuffler</u></b></h4>
+					<h4 className="text-center" id="words"><b>Car Shuffler</b></h4>
 				</div>	
 			</div>
 		</div>
@@ -36,7 +33,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Eat Deez Burgers</u></b></h4>
+					<h4 className="text-center" id="words"><b>Eat Deez Burgers</b></h4>
 				</div>	
 			</div> 
 		</div>		
@@ -51,7 +48,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Car Collector</u></b></h4>
+					<h4 className="text-center" id="words"><b>Car Collector</b></h4>
 				</div>	
 			</div>
 		</div>
@@ -68,7 +65,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Find My Movie</u></b></h4>
+					<h4 className="text-center" id="words"><b>Find My Movie</b></h4>
 				</div>	
 			</div> 
 		</div>		
@@ -83,7 +80,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Bebay</u></b></h4>
+					<h4 className="text-center" id="words"><b>Bebay</b></h4>
 				</div>	
 			</div> 
 		</div>
@@ -98,7 +95,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Wheres My Train</u></b></h4>
+					<h4 className="text-center" id="words"><b>Wheres My Train</b></h4>
 				</div>	
 			</div> 
 		</div>		
@@ -115,7 +112,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Car Gifs</u></b></h4>
+					<h4 className="text-center" id="words"><b>Car Gifs</b></h4>
 				</div>	
 			</div> 
 		</div>		
@@ -130,7 +127,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Pirate TrivaGame</u></b></h4>
+					<h4 className="text-center" id="words"><b>Pirate TrivaGame</b></h4>
 				</div>	
 			</div> 
 		</div>
@@ -145,7 +142,7 @@ const Projects = () => (
 								style={{width:`100%`}} />
 						</a>		
 					</div>  
-					<h4 className="text-center" id="words"><b><u>Node Hangman</u></b></h4>
+					<h4 className="text-center" id="words"><b>Node Hangman</b></h4>
 				</div>	
 			</div> 
 		</div>		

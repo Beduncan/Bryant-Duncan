@@ -1,9 +1,22 @@
+.title{
+	color:#0a02f2;
+}
+.words{
+	color:#111111;
+}
 .button{
-	padding: 20px;
-	width:35%;
+	color: #111111;
+	font-size: 200%;
+	font-weight: bold;
+	text-shadow: 2px 2px #04daf2;			
+	border: 2.5px #0a02f2 solid;
+	box-shadow: 5px 5px #04daf2;
+	background-color: #edefef;
+    background-repeat:no-repeat;  
 }
 .button:hover{
-	padding:30px;
-	color:#f8f8ff;
-	background-color: black;
+	position: relative;
+	box-shadow: 0px 0px;
+	left:5px;
+	top:5px;
 }

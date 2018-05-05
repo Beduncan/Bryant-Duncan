@@ -1,9 +1,6 @@
-nav{	
-  background:transparent;
-  background-image:none;
-  border-color:transparent;
-  box-shadow:none;
-}
-.Link{
-	color:grey;
+nav{
+	position: relative;
+	background-color: #687070;
+	font-family: 'Indie Flower', cursive;
+
 }

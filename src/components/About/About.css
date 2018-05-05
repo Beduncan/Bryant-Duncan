@@ -1,0 +1,16 @@
+.title{
+	color:#0a02f2;
+}
+h5{
+	color:#111111;
+}
+.Link{
+	width:50%;
+}
+.MyWork{
+	border: 5px ridge #111111; 
+	color:#0a02f2;
+	width: 50%;
+}
+.MyWork:hover{
+}
